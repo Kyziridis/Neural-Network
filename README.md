@@ -13,7 +13,7 @@ sudo apt-get update
 sudo apt-get install octave
 ```
 
-####Download octave on Windows
+####Download octave for Windows
 [Download Link](https://ftp.gnu.org/gnu/octave/windows/)
 
 ----
