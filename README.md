@@ -1,7 +1,7 @@
 # Neural-Network
 
-This is a simple NN project written in Matlab (without a library) with only one hidden layer. 
-It is for educational purpose, it was a university project in Machine_Learning.
+This is a simple NN project written in Octave with only one hidden layer. 
+It is for educational purpose to understand the inside math structure of neural networks. It is a university course project in Machine_Learning so it is developed without a NN-library or a toolkit. 
 
 *I prefer Octave instead of Matlab because is free and stable for your PC/Laptop*
 
