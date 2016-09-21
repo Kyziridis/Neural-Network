@@ -9,4 +9,4 @@ The main script is the 'demo_mnistLogreg.m' file which loads the data from the m
 
 The main purpose is to detect the handwritten numbers and this will done with multiple logistic regression which will classify the data we have.
 
-http://neuralnetworksanddeeplearning.com/images/tikz12.png
+![alt tag](http://neuralnetworksanddeeplearning.com/images/tikz12.png)
