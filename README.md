@@ -5,7 +5,7 @@ It is for educational purpose, it was a university project in Machine_Learning.
 
 *I prefer Octave instead of Matlab because is free and stable for your PC/Laptop*
 
-###Download Octave in Linux
+####Download Octave in Linux
 Open a terminal and type :
 ```
 sudo add-apt-repository ppa:octave/stable
@@ -13,12 +13,12 @@ sudo apt-get update
 sudo apt-get install octave
 ```
 
-###Download octave on Windows
-
+####Download octave on Windows
 [Download Link](https://ftp.gnu.org/gnu/octave/windows/)
 
+----
 
-The NN detect handwritten numbers which on mnist_data.
+**The NN detect handwritten numbers which on mnist_data.**
 
 The main script is the 'demo_mnistLogreg.m' file which loads the data from the mnist_all.mat, split them to training_set and test_set, normalize the pixels to take values in [0,1] , and calls the other main functions such as costgrad_softmax, ml_softmax , etc.
 
