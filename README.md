@@ -25,6 +25,8 @@ To recognize individual digits we will use a three-layer neural network.
 This is an image of NN structure :
 
 ![alt tag](http://neuralnetworksanddeeplearning.com/images/tikz12.png)
-*the hidden units in this image are 15 but the default number of hidden units in the project is 250*
+
+
+*the hidden units in this image are 15 but the default number of hidden units in the project is n= 250*
 
 
