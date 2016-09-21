@@ -45,4 +45,15 @@ This is an image of NN structure :
 
 *the hidden units in this image are 15 but the default number of hidden units in the project is n = 250*
 
+The results of the tests-combinations with different numbers of hidden_units , number of iterations and λ(lambda) :
+
+n. Hidden_units | n. Iterations | lambda | **error**
+----------------|---------------|--------|------------
+100             |   100         |  0.1   |  0.1
+50              | 20            |0.1     |0.28
+200             | 100           | 0.1    | 0.09
+300             | 50            | 0.1    | 0.1
+250             | 100           | 0.1    | 0.09
+
+
 
