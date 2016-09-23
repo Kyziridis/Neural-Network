@@ -3,7 +3,7 @@
 This is a simple NN project written in Octave with only one hidden layer. 
 It is for educational purposes in order for the public to understand the inside math structure of neural networks. It is a university course project in Machine_Learning so it is developed without a NN-library or a toolkit. 
 
-*I prefer Octave instead of Matlab because it's free and stable for your PC/Laptop*
+*I prefer Octave instead of Matlab due to it's free and stable for your PC/Laptop*
 
 ####Download Octave in Linux
 Open a terminal and type :
