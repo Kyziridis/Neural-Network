@@ -18,7 +18,7 @@ sudo apt-get install octave
 
 ----
 
-**The NN detect handwritten numbers which in mnist_data.**
+**The NN detects handwritten numbers that are included in mnist_data.**
 
 The main script is the 'demo_mnistLogreg.m' file which loads the data from the mnist_all.mat, splits them into training_set and test_set, normalizes the pixels to take values in [0,1] , and uses the other main functions such as costgrad_softmax, ml_softmax , etc.
 
