@@ -5,7 +5,7 @@ It is for educational purposes in order for the public to understand the inside 
 
 *I prefer Octave instead of Matlab due to it's free and stable for your PC/Laptop*
 
-####Download Octave in Linux
+#### Download Octave in Linux
 Open a terminal and type :
 ```
 sudo add-apt-repository ppa:octave/stable
@@ -13,7 +13,7 @@ sudo apt-get update
 sudo apt-get install octave
 ```
 
-####Download Octave for Windows
+#### Download Octave for Windows
 [Download Link](https://ftp.gnu.org/gnu/octave/windows/)
 
 ----
