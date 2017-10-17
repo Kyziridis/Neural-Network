@@ -1,9 +1,9 @@
 # Neural-Network
 
-This is a simple NN project written in Octave with only one hidden layer. 
-It is for educational purposes in order for the public to understand the inside math structure of neural networks. It is a university course project in Machine_Learning so it is developed without a NN-library or a toolkit. 
+This is a simple NN project written in Octave consist of only one hidden layer(simplest version of Neural-Network). 
+It is for educational purposes in order for the public to understand the math structure behind neural networks. It is a university course project in Machine_Learning so it is developed without a NN-library or a toolkit. 
 
-*I prefer Octave instead of Matlab due to it's free and stable for your PC/Laptop*
+*I prefer Octave instead of Matlab due to it is part of Gnu/fsf project and stable for your machine*
 
 #### Download Octave in Linux
 Open a terminal and type :
