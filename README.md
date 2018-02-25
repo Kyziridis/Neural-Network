@@ -47,13 +47,7 @@ This is an image of NN structure :
 
 The results of the tests-combinations with different numbers of hidden_units , number of iterations and λ(lambda) :
 
-n. Hidden_units | n. Iterations | lambda | **error**
-----------------|---------------|--------|------------
-1000            |   100         |  0.1   |  0.2
-500             | 20            |0.1     |0.28
-2000            | 300           | 0.1    | 0.3
-3000            | 50            | 0.1    | 0.1
-2500            | 400           | 0.1    | 0.09
+
 
 
 
